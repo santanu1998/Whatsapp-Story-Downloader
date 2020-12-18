@@ -1,10 +1,10 @@
-package com.developer.arsltech.statussaver.Activities;
+package com.world.science.whatsappstorydownloader.Activities;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.developer.arsltech.statussaver.R;
+import com.world.science.whatsappstorydownloader.R;
 
 public class Splash_Screen extends AppCompatActivity {
 

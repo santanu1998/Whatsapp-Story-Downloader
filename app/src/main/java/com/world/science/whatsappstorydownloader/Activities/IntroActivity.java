@@ -1,4 +1,4 @@
-package com.developer.arsltech.statussaver.Activities;
+package com.world.science.whatsappstorydownloader.Activities;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -9,8 +9,8 @@ import android.support.v4.app.Fragment;
 
 import com.github.paolorotolo.appintro.AppIntro;
 import com.github.paolorotolo.appintro.AppIntroFragment;
-import com.developer.arsltech.statussaver.R;
-import com.developer.arsltech.statussaver.Utils.Constants;
+import com.world.science.whatsappstorydownloader.R;
+import com.world.science.whatsappstorydownloader.Utils.Constants;
 
 
 

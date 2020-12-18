@@ -1,4 +1,4 @@
-package com.arsltech.statussaver;
+package com.world.whatsappstorydownloader;
 
 import org.junit.Test;
 

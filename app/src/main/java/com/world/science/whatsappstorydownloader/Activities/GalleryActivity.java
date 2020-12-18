@@ -1,4 +1,4 @@
-package com.developer.arsltech.statussaver.Activities;
+package com.world.science.whatsappstorydownloader.Activities;
 
 import android.net.Uri;
 import android.os.Bundle;
@@ -12,10 +12,10 @@ import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.widget.Toast;
-import com.developer.arsltech.statussaver.R;
-import com.developer.arsltech.statussaver.Adapters.GalleryAdapter;
-import com.developer.arsltech.statussaver.Model.GalleryModel;
-import com.developer.arsltech.statussaver.Utils.Constants;
+import com.world.science.whatsappstorydownloader.R;
+import com.world.science.whatsappstorydownloader.Adapters.GalleryAdapter;
+import com.world.science.whatsappstorydownloader.Model.GalleryModel;
+import com.world.science.whatsappstorydownloader.Utils.Constants;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.InterstitialAd;

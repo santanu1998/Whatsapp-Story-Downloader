@@ -1,4 +1,4 @@
-package com.arsltech.statussaver;
+package com.world.whatsappstorydownloader;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

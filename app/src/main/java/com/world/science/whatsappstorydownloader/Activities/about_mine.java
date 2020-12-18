@@ -1,9 +1,9 @@
-package com.developer.arsltech.statussaver.Activities;
+package com.world.science.whatsappstorydownloader.Activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.developer.arsltech.statussaver.R;
+import com.world.science.whatsappstorydownloader.R;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.InterstitialAd;

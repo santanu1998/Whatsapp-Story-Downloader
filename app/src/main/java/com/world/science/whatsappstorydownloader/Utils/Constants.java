@@ -1,4 +1,4 @@
-package com.developer.arsltech.statussaver.Utils;
+package com.world.science.whatsappstorydownloader.Utils;
 
 public class Constants {
     public static final String FOLDER_NAME ="/WhatsApp/";

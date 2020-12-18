@@ -1,4 +1,4 @@
-package com.developer.arsltech.statussaver.Adapters;
+package com.world.science.whatsappstorydownloader.Adapters;
 
 import android.content.Context;
 import android.media.MediaScannerConnection;
@@ -14,11 +14,10 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
-import com.developer.arsltech.statussaver.Activities.MainActivity;
-import com.developer.arsltech.statussaver.Model.StoryModel;
-import com.developer.arsltech.statussaver.R;
-import com.developer.arsltech.statussaver.Utils.Constants;
-import com.developer.arsltech.statussaver.Model.StoryModel;
+import com.world.science.whatsappstorydownloader.Activities.MainActivity;
+import com.world.science.whatsappstorydownloader.Model.StoryModel;
+import com.world.science.whatsappstorydownloader.R;
+import com.world.science.whatsappstorydownloader.Utils.Constants;
 
 import org.apache.commons.io.FileUtils;
 

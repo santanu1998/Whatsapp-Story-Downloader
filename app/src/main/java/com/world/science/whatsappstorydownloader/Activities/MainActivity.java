@@ -1,4 +1,4 @@
-package com.developer.arsltech.statussaver.Activities;
+package com.world.science.whatsappstorydownloader.Activities;
 
 import android.Manifest;
 import android.annotation.TargetApi;
@@ -38,10 +38,10 @@ import com.mikepenz.materialdrawer.DrawerBuilder;
 import com.mikepenz.materialdrawer.model.PrimaryDrawerItem;
 import com.mikepenz.materialdrawer.model.ProfileDrawerItem;
 import com.mikepenz.materialdrawer.model.interfaces.IDrawerItem;
-import com.developer.arsltech.statussaver.Adapters.StoryAdapter;
-import com.developer.arsltech.statussaver.Model.StoryModel;
-import com.developer.arsltech.statussaver.R;
-import com.developer.arsltech.statussaver.Utils.Constants;
+import com.world.science.whatsappstorydownloader.Adapters.StoryAdapter;
+import com.world.science.whatsappstorydownloader.Model.StoryModel;
+import com.world.science.whatsappstorydownloader.R;
+import com.world.science.whatsappstorydownloader.Utils.Constants;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;

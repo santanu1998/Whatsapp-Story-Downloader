@@ -1,4 +1,4 @@
-package com.developer.arsltech.statussaver.Adapters;
+package com.world.science.whatsappstorydownloader.Adapters;
 import android.app.Dialog;
 import android.content.ActivityNotFoundException;
 import android.content.Context;
@@ -18,8 +18,8 @@ import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 import com.geniusforapp.fancydialog.FancyAlertDialog;
-import com.developer.arsltech.statussaver.Model.GalleryModel;
-import com.developer.arsltech.statussaver.R;
+import com.world.science.whatsappstorydownloader.Model.GalleryModel;
+import com.world.science.whatsappstorydownloader.R;
 
 import java.io.File;
 import java.util.ArrayList;

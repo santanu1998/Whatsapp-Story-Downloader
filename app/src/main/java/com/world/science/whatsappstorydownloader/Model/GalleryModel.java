@@ -1,4 +1,4 @@
-package com.developer.arsltech.statussaver.Model;
+package com.world.science.whatsappstorydownloader.Model;
 
 import android.net.Uri;
 
